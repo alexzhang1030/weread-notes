@@ -6,13 +6,22 @@
         "type": "split",
         "children": [
           {
-            "id": "b5670526f924b1b4",
+            "id": "9caba955b882ee7a",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cb98800d2fbbe49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SlidesReader/微信读书.md",
-                "mode": "source"
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +97,7 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "b5670526f924b1b4"
+      "active": "5cb98800d2fbbe49"
     }
   },
   "active": "weread"

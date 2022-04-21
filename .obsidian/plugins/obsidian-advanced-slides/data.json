@@ -1,6 +1,6 @@
 {
-  "port": "3000",
-  "autoReload": true,
+  "port": "4000",
+  "autoReload": false,
   "exportDirectory": "/export",
   "enableChalkboard": false,
   "enableOverview": false,

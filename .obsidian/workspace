@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "767880400b55696e",
+        "id": "9caba955b882ee7a",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
@@ -12,11 +12,15 @@
         }
       },
       {
-        "id": "5537f96903c59031",
+        "id": "5cb98800d2fbbe49",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/01-微习惯/02-第二章.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/01-微习惯/02-第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +95,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5537f96903c59031",
+  "active": "5cb98800d2fbbe49",
   "lastOpenFiles": [
+    "notes/01-微习惯/02-第二章.md",
+    "notes/01-微习惯/01-第一章.md",
+    "SlidesReader/微信读书.md",
     "。.md",
     "notes/02 - 微习惯/未命名.md",
-    "SlidesReader/微信读书.md",
     "notes/01 - 算法（第 4 版）.md"
   ]
 }
