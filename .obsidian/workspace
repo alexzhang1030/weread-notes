@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a00c63230674073d",
+    "type": "split",
+    "children": [
+      {
+        "id": "767880400b55696e",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "5537f96903c59031",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4447f9b30014687",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f5fdf2c9d02e58c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42d34837de4e4b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc1484b7df79f122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f844aaf49405533",
+    "type": "split",
+    "children": [
+      {
+        "id": "35629401aec307c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8169f34aa6b6ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5537f96903c59031",
+  "lastOpenFiles": [
+    "。.md",
+    "notes/02 - 微习惯/未命名.md",
+    "SlidesReader/微信读书.md",
+    "notes/01 - 算法（第 4 版）.md"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "choices": [
+    {
+      "id": "7968acdc-f883-4a9e-bd6b-6a6c30ccf809",
+      "name": "weread",
+      "type": "Macro",
+      "command": true,
+      "macroId": "48c8fae5-6238-4bf3-810b-588f33e35e23"
+    }
+  ],
+  "macros": [
+    {
+      "name": "weread",
+      "id": "48c8fae5-6238-4bf3-810b-588f33e35e23",
+      "commands": [
+        {
+          "name": "Workspaces Plus: Load: weread",
+          "type": "Obsidian",
+          "id": "5afff286-5b19-4720-bc17-58a9794c13f2",
+          "commandId": "workspaces-plus:weread"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "9d742663-bc73-4885-9aee-404eefdd5b06",
+          "time": 100
+        },
+        {
+          "name": "Advanced Slides: Show Slide Preview",
+          "type": "Obsidian",
+          "id": "928a2683-fd74-4cf8-97e7-781e77f1c3de",
+          "commandId": "obsidian-advanced-slides:open-advanced-slides-preview"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "a46cc32b-fe63-4614-a038-97d6468a9cfa",
+          "time": 100
+        },
+        {
+          "name": "将焦点切换到左侧面板",
+          "type": "Obsidian",
+          "id": "1ee8cfe4-51ff-427f-a5b2-2a6630ed1d08",
+          "commandId": "editor:focus-left"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "25eeb1db-19c1-47a2-9b75-ac87df5969e3",
+          "time": 100
+        },
+        {
+          "name": "关闭当前面板",
+          "type": "Obsidian",
+          "id": "63813b77-d501-45db-a479-59e8b335414c",
+          "commandId": "workspace:close"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "ddc8b52d-87dd-4028-94bd-dacffad769bc",
+          "time": 100
+        },
+        {
+          "name": "左右拆分",
+          "type": "Obsidian",
+          "id": "cc0f2d8d-d3a5-409a-97a1-830df4ce8bb6",
+          "commandId": "workspace:split-vertical"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "f039228d-0bc2-4895-bbb0-e618606565f6",
+          "time": 100
+        },
+        {
+          "name": "将焦点切换到右侧面板",
+          "type": "Obsidian",
+          "id": "10bd5bc6-5662-44cf-86b1-e188b96f3c59",
+          "commandId": "editor:focus-right"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "75cdabc1-8f9f-4796-9dbc-3c0bd60694da",
+          "time": 100
+        },
+        {
+          "name": "Quick Switcher++: Open",
+          "type": "Obsidian",
+          "id": "8eb7827b-201d-4e55-8326-35c43e707a3d",
+          "commandId": "darlal-switcher-plus:switcher-plus:open"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line"
+}

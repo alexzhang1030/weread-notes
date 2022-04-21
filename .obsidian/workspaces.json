@@ -1,0 +1,95 @@
+{
+  "workspaces": {
+    "weread": {
+      "main": {
+        "id": "a00c63230674073d",
+        "type": "split",
+        "children": [
+          {
+            "id": "b5670526f924b1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlidesReader/微信读书.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a4447f9b30014687",
+        "type": "split",
+        "children": [
+          {
+            "id": "9f5fdf2c9d02e58c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "42d34837de4e4b44",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cc1484b7df79f122",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "7f844aaf49405533",
+        "type": "split",
+        "children": [
+          {
+            "id": "35629401aec307c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a8169f34aa6b6ad",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "SlidesReader/微信读书.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "b5670526f924b1b4"
+    }
+  },
+  "active": "weread"
+}
